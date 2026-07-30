@@ -1,0 +1,5 @@
+.venv/
+__pycache__
+hand_landmarker.task
+*.csv
+calibration.json
